@@ -1,0 +1,1 @@
+web: batch runbot.bat
